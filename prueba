@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "Descripcion": "Estampita",
+    "Costo": "¢400",
+    "Precio": "¢1000",
+    },
+    "Existencia": "10",
+    "Inv_Minimo": "5",
+    "Inv_Maximo": "20"
+  },
+  {
+    "id": 1,
+    "Descripcion": "Estampita",
+    "Costo": "¢400",
+    "Precio": "¢1000",
+    },
+    "Existencia": "10",
+    "Inv_Minimo": "5",
+    "Inv_Maximo": "20"
+  },
+  {
+    "id": 1,
+    "Descripcion": "Estampita",
+    "Costo": "¢400",
+    "Precio": "¢1000",
+    },
+    "Existencia": "10",
+    "Inv_Minimo": "5",
+    "Inv_Maximo": "20"
+  },
+  {
+    "id": 1,
+    "Descripcion": "Estampita",
+    "Costo": "¢400",
+    "Precio": "¢1000",
+    },
+    "Existencia": "10",
+    "Inv_Minimo": "5",
+    "Inv_Maximo": "20"
+  },
+  {
+    "id": 1,
+    "Descripcion": "Estampita",
+    "Costo": "¢400",
+    "Precio": "¢1000",
+    },
+    "Existencia": "10",
+    "Inv_Minimo": "5",
+    "Inv_Maximo": "20"
+    }
+  }
+]
